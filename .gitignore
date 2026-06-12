@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.python-version
+
+# Environment
+.env
+
+# Coverage
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+
+# Temporary inspection files
+*structure.txt
+folders.txt

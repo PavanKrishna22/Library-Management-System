@@ -1,0 +1,21 @@
+author_id,first_name,last_name,birth_date,nationality,biography
+1,John,Smith,1980-05-12,American,Author
+2,Jane,Doe,1975-02-20,British,Writer
+3,Robert,Brown,1990-01-10,Canadian,Engineer
+4,Emily,Clark,1985-07-15,Australian,Researcher
+5,Michael,Lee,1978-03-25,Singaporean,Scientist
+6,Sarah,Wilson,1982-11-10,American,Professor
+7,David,Johnson,1984-09-10,American,Analyst
+8,Chris,Taylor,1987-06-05,French,Developer
+9,Anna,Scott,1992-12-12,German,AI Expert
+10,Mark,Adams,1981-08-08,Indian,ML Engineer
+11,,Williams,1980-01-01,American,Missing first name
+12,Liam,,1982-02-02,British,Missing last name
+13,Noah,White,2050-01-01,Canadian,Future birth date
+14,Olivia,Green,invalid-date,Australian,Bad date
+15,Ethan,Hall,1990-13-40,American,Invalid date
+16,Ava,Baker,1991-05-05,American,
+17,John,Smith,1980-05-12,American,Duplicate author
+18,Robert,Brown,1990-01-10,Canadian,Duplicate
+19,Test,User,1995-06-06,Unknown,Noisy record
+20,Fake,Author,,Unknown,Missing data
