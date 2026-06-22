@@ -163,3 +163,11 @@ This phase demonstrates a complete ETL workflow by combining:
 - External API integration
 - Error handling
 - Logging
+
+---
+
+# Author
+
+**Pavan Krishna O**
+
+This repository documents my learning journey and practical implementation of modern backend development concepts through the development of a complete Library Management System.
