@@ -492,7 +492,7 @@ Potential improvements include:
 
 # Internship Project
 
-This project was developed during my internship as part of a structured backend development program. The objective was to gain practical experience in designing relational databases, building ETL pipelines, integrating external APIs, implementing ORM-based data management, and developing RESTful services using Django REST Framework.
+This project was developed during my internship. The objective was to gain practical experience in designing relational databases, building ETL pipelines, integrating external APIs, implementing ORM-based data management, and developing RESTful services using Django REST Framework.
 
 ---
 
