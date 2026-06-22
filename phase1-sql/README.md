@@ -142,6 +142,14 @@ This phase demonstrates:
 
 ---
 
+# Author
+
+**Pavan Krishna O**
+
+This repository documents my learning journey and practical implementation of modern backend development concepts through the development of a complete Library Management System.
+
+---
+
 ## Assignment Status
 
 Phase 1 of the Library Management System has been successfully implemented according to the assignment requirements.
