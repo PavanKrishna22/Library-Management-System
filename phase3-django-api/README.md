@@ -764,4 +764,6 @@ This project demonstrates practical experience with:
 
 # Author
 
-Phase 3 of the Library Management System project developed as part of a multi-phase backend engineering assignment, building upon previous CSV processing and ETL pipeline implementations.
+**Pavan Krishna O**
+
+This repository documents my learning journey and practical implementation of modern backend development concepts through the development of a complete Library Management System.
